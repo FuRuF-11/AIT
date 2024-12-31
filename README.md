@@ -1,7 +1,7 @@
 # AIT
 
 
-An introduction to [algorithmic information theory]()
+An introduction to [algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
 
 
 Reference:  
